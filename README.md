@@ -1,2 +1,2 @@
 # assignment1
-This is a work for assignment 1 for CO1706 Web Technologies
+This is a work for assignment 1 for CO1706 Web Technologie
